@@ -12,11 +12,11 @@ cd slcsp-calculation
 ```
 
 2. **Execute the Script:**
-In the terminal, navigate to the directory containing the script and CSV files. Run the script with the following command:
+- Run the script with the following command:
 
 ```bash
 ruby calculate_slcsp.rb
 ```
 
 3. **View the Output:**
-After running the script, check the slcsp_output.csv file in the same directory for the output.
+- After running the script, check the `slcsp_output.csv` file in the same directory for the output.
